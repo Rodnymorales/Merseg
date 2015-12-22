@@ -1,4 +1,8 @@
 Jesus Arturo Reyes  - conflicto
+<<<<<<< HEAD
 Esto es una prueba de conflicto por JM
 hola este es un archivo llamado conflicto que es conflictivamente conflictivo
 Jesus Arturo Reyes  - conflicto
+=======
+creando conflicto
+>>>>>>> 6d43094574c313b14987ba7fd6eaa32acfa290d9
