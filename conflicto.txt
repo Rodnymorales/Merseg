@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Esto es una prueba de conflicto por JM
+=======
+Jesus Arturo Reyes  - conflicto
+>>>>>>> c93166cc2205a624703b2b0d4c73df71a2819478
